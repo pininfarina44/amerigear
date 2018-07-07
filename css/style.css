@@ -1,0 +1,23 @@
+body{
+	font-family: Verdana Geneva, sans-serif;
+	width: 80%;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+	background-color: red;
+}
+nav{
+	text-align: center;
+
+}
+li{
+	display: inline;
+	padding: 10px 20px;
+
+	background-color: cyan;
+
+}
+a{
+	text-decoration: none;
+}
